@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Gustavs.
-- 👀 I’m interested in Engeneering, UX/UI and Music.
-- 🌱 I’m currently learning IT in Vidzemes University.
-- 💞️ I’m looking to collaborate on start-up projects.
-- 📫 How to reach me? 
-- gustavs.smalkais@gmail.com
+- Hello! My name is Gustavs.
+- I’m interested in Engeneering, entertainment industry and music in general.
+- Currently learning IT in Vidzemes University.
+
+- You can reach me on emails:
+    gustavs.smalkais@gmail.com
+    gustavs.smalkaisfrancis@va.lv
 
 <!---
 gustavssf/gustavssf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
